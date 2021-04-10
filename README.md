@@ -26,15 +26,15 @@ Pi4_Sine_SweepBursts consists of 18 wav files with the naming convention:
 `Pi4sineSweepBurstTest_[Array to speaker distance]_[Array angle with 0 directly perpendicular to speaker]_[start frequency]_[end frequency]_[frequency step size]_[duration].wav`
 I have not taken measurements for the 90 degree and 270 degree angle in this set of data. 
 
-![Source to array distance](figures/experimental_setup_01.jpg)
+![Source to array distance](figures/experimental_setup_01.jpeg)
 
-![View from behind array](figures/experimental_setup_02.jpg)
+![View from behind array](figures/experimental_setup_02.jpeg)
 
-![View of source setup](figures/experimental_setup_03.jpg)
+![View of source setup](figures/experimental_setup_03.jpeg)
 
-![View from behind source](figures/experimental_setup_04.jpg)
+![View from behind source](figures/experimental_setup_04.jpeg)
 
-![View from above array](figures/experimental_setup_05.jpg)
+![View from above array](figures/experimental_setup_05.jpeg)
 
 Note that it seems like the single battery did not provide enough juice
 for the Pi4's Wi-Fi to properly activate/connect to the SHL network, 
